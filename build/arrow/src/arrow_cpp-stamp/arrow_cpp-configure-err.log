@@ -1,0 +1,35 @@
+CMake Warning (dev) at /opt/local/share/cmake-3.29/Modules/ExternalProject.cmake:3239 (message):
+  The DOWNLOAD_EXTRACT_TIMESTAMP option was not given and policy CMP0135 is
+  not set.  The policy's OLD behavior will be used.  When using a URL
+  download, the timestamps of extracted files should preferably be that of
+  the time of extraction, otherwise code that depends on the extracted
+  contents might not be rebuilt if the URL changes.  The OLD behavior
+  preserves the timestamps from the archive instead, but this is usually not
+  what you want.  Update your project to the NEW behavior or specify the
+  DOWNLOAD_EXTRACT_TIMESTAMP option with a value of true to avoid this
+  robustness issue.
+Call Stack (most recent call first):
+  /opt/local/share/cmake-3.29/Modules/ExternalProject.cmake:4465 (_ep_add_download_command)
+  cmake_modules/ThirdpartyToolchain.cmake:1895 (externalproject_add)
+  CMakeLists.txt:496 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /opt/local/share/cmake-3.29/Modules/ExternalProject.cmake:3239 (message):
+  The DOWNLOAD_EXTRACT_TIMESTAMP option was not given and policy CMP0135 is
+  not set.  The policy's OLD behavior will be used.  When using a URL
+  download, the timestamps of extracted files should preferably be that of
+  the time of extraction, otherwise code that depends on the extracted
+  contents might not be rebuilt if the URL changes.  The OLD behavior
+  preserves the timestamps from the archive instead, but this is usually not
+  what you want.  Update your project to the NEW behavior or specify the
+  DOWNLOAD_EXTRACT_TIMESTAMP option with a value of true to avoid this
+  robustness issue.
+Call Stack (most recent call first):
+  /opt/local/share/cmake-3.29/Modules/ExternalProject.cmake:4465 (_ep_add_download_command)
+  cmake_modules/ThirdpartyToolchain.cmake:2211 (externalproject_add)
+  cmake_modules/ThirdpartyToolchain.cmake:201 (build_xsimd)
+  cmake_modules/ThirdpartyToolchain.cmake:278 (build_dependency)
+  cmake_modules/ThirdpartyToolchain.cmake:2236 (resolve_dependency)
+  CMakeLists.txt:496 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

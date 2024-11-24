@@ -1,0 +1,6 @@
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-build/CMakeFiles/edit_cache.dir
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-build/CMakeFiles/rebuild_cache.dir
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-build/CMakeFiles/list_install_components.dir
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-build/CMakeFiles/install.dir
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-build/CMakeFiles/install/local.dir
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,13 @@
+# Target labels
+ arrow_cpp
+# Source files and their labels
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/_deps/rerun_sdk-build/CMakeFiles/arrow_cpp
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/_deps/rerun_sdk-build/CMakeFiles/arrow_cpp.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/_deps/rerun_sdk-build/CMakeFiles/arrow_cpp-complete.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-build.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-configure.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-download.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-install.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-mkdir.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-patch.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-stamp/arrow_cpp-update.rule

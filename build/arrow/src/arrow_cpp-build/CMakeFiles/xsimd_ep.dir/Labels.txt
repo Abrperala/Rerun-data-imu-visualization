@@ -1,0 +1,13 @@
+# Target labels
+ xsimd_ep
+# Source files and their labels
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/CMakeFiles/xsimd_ep
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/CMakeFiles/xsimd_ep.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/CMakeFiles/xsimd_ep-complete.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-build.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-configure.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-download.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-install.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-mkdir.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-patch.rule
+/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep-stamp/xsimd_ep-update.rule

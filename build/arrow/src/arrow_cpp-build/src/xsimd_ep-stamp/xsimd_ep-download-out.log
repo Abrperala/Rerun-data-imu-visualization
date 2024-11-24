@@ -1,0 +1,16 @@
+-- Downloading...
+   dst='/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/9.0.1.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/xtensor-stack/xsimd/archive/9.0.1.tar.gz'
+-- verifying file...
+       file='/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/9.0.1.tar.gz'
+-- Downloading... done
+-- extracting...
+     src='/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/9.0.1.tar.gz'
+     dst='/Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/src/xsimd_ep'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done

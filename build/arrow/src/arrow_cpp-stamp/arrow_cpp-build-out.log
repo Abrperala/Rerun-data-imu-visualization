@@ -1,0 +1,8 @@
+[  9%] Built target xsimd_ep
+[ 12%] Built target mimalloc_ep
+[ 12%] Built target toolchain
+[ 12%] Bundling /Users/abrahamperala/Desktop/STARX/Rerun Test/build/arrow/src/arrow_cpp-build/release/libarrow_bundled_dependencies.a
+[ 12%] Built target arrow_bundled_dependencies_merge
+[ 12%] Built target arrow_dependencies
+[ 99%] Built target arrow_objlib
+[100%] Built target arrow_static
